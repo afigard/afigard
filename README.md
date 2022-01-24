@@ -30,6 +30,7 @@
 👆 You can reach me via the social media above
 
 <br>
+<br>
 
 🏋️ Other than coding, I really enjoy doing sports
 
