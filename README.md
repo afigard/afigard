@@ -14,10 +14,11 @@
 
 <br>
 
-<img align="right" height="300px" alt="GIF" src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif" />
+
 
 
 💻 I’m currently following the major **Data & Artificial Intelligence**
+<img align="right" height="250px" alt="GIF" src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif" />
 
 🌱 Github is quite new for me, so feel free to give me any advice !
 
