@@ -14,7 +14,7 @@
 
 <br>
 
-<img align="right" height="450px" alt="GIF" src="https://i.pinimg.com/originals/8a/21/c0/8a21c069f217aeded9101b119b2251d3.gif" />
+<img align="right" height="250px" alt="GIF" src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif" />
 
 
 💻 I’m currently following the major **Data & Artificial Intelligence**
