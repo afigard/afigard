@@ -14,24 +14,24 @@
 
 <br>
 
-<img align="right" height="250px" alt="GIF" src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif" />
+<img align="left" height="250px" alt="GIF" src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif" />
 
 
-- 💻 I’m currently following the major **Data & Artificial Intelligence**
+💻 I’m currently following the major **Data & Artificial Intelligence**
 
-- 🌱 Github is quite new for me, so feel free to give me any advice !
+🌱 Github is quite new for me, so feel free to give me any advice !
 
-- 🌎 I’m open to collaborate with other Developers
-
-<br>
-
-- 🤝 Ask me about anything ! I am happy to help
-
-- 👆 You can reach me via the social media above
+🌎 I’m open to collaborate with other Developers
 
 <br>
 
-- 🏋️ Other than coding, I really enjoy doing sports
+🤝 Ask me about anything ! I am happy to help
+
+👆 You can reach me via the social media above
+
+<br>
+
+🏋️ Other than coding, I really enjoy doing sports
 
 <br>
 <br>
