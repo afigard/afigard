@@ -14,7 +14,7 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif" />
+<img align="right" height="300px" alt="GIF" src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif" />
 
 
 💻 I’m currently following the major **Data & Artificial Intelligence**
@@ -29,7 +29,6 @@
 
 👆 You can reach me via the social media above
 
-<br>
 <br>
 
 🏋️ Other than coding, I really enjoy doing sports
