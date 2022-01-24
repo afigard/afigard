@@ -17,17 +17,21 @@
 <img align="right" height="270px" alt="GIF" src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif" />
 
 
-- I’m currently following the major **Data & Artificial Intelligence**
-- Github is quite new for me, so feel free to give me any advice !
-- I’m open to collaborate with other Developers
+💻 I’m currently following the major **Data & Artificial Intelligence**
+
+🌱 Github is quite new for me, so feel free to give me any advice !
+
+🌎 I’m open to collaborate with other Developers
 
 <br>
 
-- Ask me about anything ! I am happy to help
-- You can reach me via the social media above
+🤝 Ask me about anything ! I am happy to help
+
+👆 You can reach me via the social media above
+
 <br>
 
-- Other than coding, I really like doing sports
+🏋️ Other than coding, I really enjoy doing sports
 
 <br>
 <br>
@@ -39,6 +43,7 @@
 <img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<br>
 <br>
 <br>
 <br>
