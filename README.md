@@ -21,7 +21,7 @@
 
 - Github is quite new for me, so feel free to give me any advice ! 🌱
 
-- I’m open to collaborate with other Developers 🌎
+- I’m open to collaborate with other developers 🌎
 
 - Ask me about anything ! I am happy to help 🤝
 
