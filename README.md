@@ -23,7 +23,7 @@
 
 - I’m open to collaborate with other developers 🌎
 
-- Ask me about anything ! I am happy to help 🤝
+- Ask me about anything ! I am happy to help 😊
 
 - You can reach me via the social media above 👆
 
