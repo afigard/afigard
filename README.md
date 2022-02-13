@@ -14,7 +14,7 @@
 
 <br>
 
-<img align="right" height="230px" alt="GIF" src="https://cdn-images-1.medium.com/max/1600/1*A5mRQbs04WyJsnqGMJKhCg.gif" />
+<img align="right" height="220px" alt="GIF" src="https://cdn-images-1.medium.com/max/1600/1*A5mRQbs04WyJsnqGMJKhCg.gif" />
 
 
 - I’m currently following the major **Data & Artificial Intelligence** 💻
