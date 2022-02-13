@@ -14,7 +14,7 @@
 
 <br>
 
-<img align="right" height="250px" alt="GIF" src="https://www.mydral.com/wp-content/uploads/2020/04/datascience.gif" />
+<img align="right" height="200px" alt="GIF" src="https://www.mydral.com/wp-content/uploads/2020/04/datascience.gif" />
 
 
 - I’m currently following the major **Data & Artificial Intelligence** 💻
