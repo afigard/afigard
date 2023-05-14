@@ -14,7 +14,7 @@
 
 <br>
 
-<h4 align="center"><b>I'm seeking an Optional Practical Training in software developing or data engineering to pursue my career in the U.S., ideally starting between mid July and early August.</b></h4>
+<h4 align="center"><b>I'm seeking an Optional Practical Training in data engineering to pursue my career in the U.S., <br> ideally starting between mid July and early August.</b></h4>
 
 <br>
 <br>
@@ -23,7 +23,7 @@
 <img align="right" height="265px" alt="GIF" src="https://www.mydral.com/wp-content/uploads/2020/04/datascience.gif" />
 
 
-- I have an equivalent of a **bachelor's degree** in engineering 🎓
+- I have an equivalent of a **master's degree** in engineering 🎓
 
 - I'm currently completing two certificates: 
   <br>**Computer Programming** and **Software Engineering**. 💻
@@ -34,7 +34,7 @@
 
 <br>
 
-- Other than coding I really enjoy doing sports. 🏋️
+- Other than coding, I really enjoy doing sports. 🏋️
 
 <br>
 <br>
