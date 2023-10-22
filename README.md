@@ -1,9 +1,9 @@
 <p>
-  <h1 align="center"><b>Hello 👋 I'm Adrien !</b></h1>
+  <h1 align="center"><a href="#">&#x200B;</a>Hello 👋 I'm Adrien !</h1>
 </p>
 
 <p>
-  <h3 align="center"><b>5th year engineer student at both UCSC Silicon Valley Extension and ESILV, Paris.</b></h3>
+  <h3 align="center"><a href="#">&#x200B;</a>5th year french engineer student at ESILV, Paris.</h3>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 <br>
 
-<h4 align="center"><b>I'm seeking an Optional Practical Training in data engineering to pursue my career in the U.S., <br> ideally starting between mid July and early August.</b></h4>
+<h4 align="center"><a href="#">&#x200B;</a>I'm seeking a position as a Data Engineer in the U.S., ideally starting early summer 2024.</h4>
 
 <br>
 <br>
@@ -25,7 +25,7 @@
 
 - I have an equivalent of a **master's degree** in engineering 🎓
 
-- I'm currently completing two certificates: 
+- I have studied one year at the UCSC and obtained two certificates: 
   <br>**Computer Programming** and **Software Engineering**. 💻
 
 - I’m open to collaborate with other developers. 🌎
@@ -34,7 +34,7 @@
 
 <br>
 
-- Other than coding, I really enjoy doing sports. 🏋️
+- Other than coding, I really enjoy travelling and doing sports. 🏋️
 
 <br>
 <br>
