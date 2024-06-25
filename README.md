@@ -1,6 +1,5 @@
-<h1 align="center">Adrien's GitHub</h1>
 
-<h3 align="center">Junior Freelance Fullstack Developer</h3>
+<h1 align="center">Hey 🙋‍♂️ I'm Adrien</h1>
 
 <p align="center">
   <br />
@@ -53,5 +52,5 @@
 
 ### **Github Stats**
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=afigard&show_icons=true&hide_border=true&theme=dark" alt="Adrien's Github Stats" width="61%">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=afigard&show_icons=true&hide_border=true&theme=dark" alt="Adrien's Github Stats" width="60%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afigard&show_icons=true&hide_border=true&theme=dark" width="37%" alt="Adrien's Top Languages">
