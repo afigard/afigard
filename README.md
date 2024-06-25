@@ -32,7 +32,7 @@
 <br />
 <br />
 
-### **Languages and Tools**
+### **Stack**
 
 <img align="left" alt="TypeScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -50,7 +50,7 @@
 <br />
 <br />
 
-### **Github Stats**
+### **Stats**
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=afigard&show_icons=true&hide_border=true&theme=dark" alt="Adrien's Github Stats" width="60%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afigard&show_icons=true&hide_border=true&theme=dark" width="37%" alt="Adrien's Top Languages">
