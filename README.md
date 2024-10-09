@@ -10,7 +10,7 @@
 
 <br />
 
-<h4 align="center">I'm looking for a Full-stack Developer position in the United States, ideally starting in September 2024.</h4>
+<h4 align="center">I'm looking for a Full-stack Developer position in the United States, ideally starting in January 2025.</h4>
 
 <br />
 <br />
