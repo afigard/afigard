@@ -14,6 +14,8 @@
 
 <img align="right" height="265px" alt="GIF" src="https://corebitweb.com/wp-content/uploads/2021/09/blockchain-development.gif" />
 
+### **About Me**
+
 - I am actually working for **Bouygues Telecom**. 💻
 
 - I have a **master's degree** in engineering. 🎓
