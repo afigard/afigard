@@ -21,9 +21,9 @@
 
 - I have a **master's degree** in engineering. 🎓
 
-- I have studied six month at the **Hanyang University**...
+- I have studied six month at the **Hanyang University**... 🇰🇷
 
-- ... and one year at the **UCSC Silicon Valley Extension**. 🌎
+- ... and one year at the **UCSC Silicon Valley Extension**. 🇺🇸
 
 <br />
 
