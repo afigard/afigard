@@ -12,7 +12,7 @@
 <br />
 <br />
 
-<img align="right" height="265px" alt="GIF" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif" />
+<img align="right" height="265px" alt="GIF" src="https://corebitweb.com/wp-content/uploads/2021/09/blockchain-development.gif" />
 
 - I am actually working for **Bouygues Telecom**. 💻
 
@@ -22,6 +22,7 @@
 
 - ... and one year at the **UCSC Silicon Valley Extension**. 🇺🇸
 
+<br />
 <br />
 
 - More about me in my [portfolio website](https://afigard.github.io) 🌐
