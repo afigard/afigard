@@ -25,7 +25,6 @@
 - ... and one year at the **UCSC Silicon Valley Extension**. 🇺🇸
 
 <br />
-<br />
 
 - More about me in my [portfolio website](https://afigard.github.io) 🌐
 
