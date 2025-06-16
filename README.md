@@ -1,10 +1,15 @@
-Hey, I'm a Full-stack Developer based in France.
+Hey, I'm a full-stack developer from France.
 
-I have experience working with big French companies (Thales, Bouygues Telecom) and now work as a freelancer.
+I specialize in building scalable web apps with React, Next.js, and GraphQL.
 
-I hold a master's degree in Data and AI, jointly awarded by [ESILV](https://www.esilv.fr/en/) and [UCSC](https://www.ucsc-extension.edu/).
+I have experience working with big French companies (Thales, Bouygues Telecom).
 
-[More about me &#8594;](https://afigard.github.io)
+I focus on clean code, fast delivery, and async communication.
+
+I'm available for remote freelance work.
+
+📫 [Email](mailto:adrien.figard@gmail.com) • 💻 [Portfolio](https://afigard.dev)
+
 
 <br/>
 
