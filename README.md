@@ -1,8 +1,8 @@
 Hey, I'm a Full-stack Developer based in France.
 
-I hold a master's degree in Data and AI, jointly awarded by [ESILV](https://www.esilv.fr/en/) and [UCSC](https://www.ucsc-extension.edu/).
-
 I have experience working with big French companies (Thales, Bouygues Telecom) and now work as a freelancer.
+
+I hold a master's degree in Data and AI, jointly awarded by [ESILV](https://www.esilv.fr/en/) and [UCSC](https://www.ucsc-extension.edu/).
 
 [More about me &#8594;](https://afigard.github.io)
 
