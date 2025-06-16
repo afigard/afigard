@@ -1,4 +1,4 @@
-Hey, I'm a Fullstack Developer based in France.
+Hey, I'm a Full-stack Developer based in France.
 
 I hold a master's degree in Data and AI, jointly awarded by [ESILV](https://www.esilv.fr/en/) and [UCSC](https://www.ucsc-extension.edu/).
 
